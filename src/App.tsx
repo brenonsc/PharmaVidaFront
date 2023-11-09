@@ -6,9 +6,9 @@ import Footer from "./components/footer/Footer.tsx";
 function App() {
   return (
     <>
-      <Navbar/>
-        <Home/>
-        <Footer/>
+      <Navbar />
+      <Home/>
+      <Footer/>
     </>
   )
 }
